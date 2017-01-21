@@ -8,7 +8,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/), study the KMP-based solution.
 - 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/), what's the best solution?
 
-## Favorite Problems
+## :cool: Problems
 - 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)
 - 158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)
 - 160. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
@@ -42,13 +42,14 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
 - 353. [Design Snake Game](https://leetcode.com/problems/design-snake-game/)
 - 373. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+- 488. [Zuma Game](https://leetcode.com/problems/zuma-game)
 
 ## Problems to Review
 - 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (343 / 358)
+## Submissions (346 / 455)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -441,3 +442,6 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[371_v1.cpp](371_v1.cpp)|Easy|7/2/2016|2'03"|1||
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[373_v1.cpp](373_v1.cpp)|Medium|7/9/2016|**26'11"**|1||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[374_v1.cpp](374_v1.cpp)|Easy|7/15/2016|1'35"|1||
+|485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[485_v1.cpp](485_v1.cpp)|Easy|1/14/2017|2'00"|2||
+|487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[487_v1.cpp](487_v1.cpp)|Medium|1/14/2017|3'43"|1||
+|488|[Zuma Game](https://leetcode.com/problems/zuma-game)|[488_v1.cpp](488_v1.cpp)|Hard|1/14/2017|**35'00"**|2||
