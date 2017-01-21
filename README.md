@@ -2,11 +2,11 @@
 This repository keeps a list of the LeetCode problems I've solved. The thresholds I'm currently setting are 10, 20 and 30 minutes for easy, medium and hard problems, respectively. If I cannot solve a problem within the time limit, I'll mark this problem as failed in the "Time" column.
 
 ## Tasks
-- [ ] 5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), study [Manacher's algorithm](http://articles.leetcode.com/longest-palindromic-substring-part-ii).
-- [ ] 44 [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/), does there exist a subquadratic time algorithm?
-- [ ] 212 [Word Search II](https://leetcode.com/problems/word-search-ii/), how do we analyze its time complexity?
-- [ ] 214 [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/), study the KMP-based solution.
-- [ ] 336 [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/), what's the best solution?
+- 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), study [Manacher's algorithm](http://articles.leetcode.com/longest-palindromic-substring-part-ii).
+- 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/), does there exist a subquadratic time algorithm?
+- 212. [Word Search II](https://leetcode.com/problems/word-search-ii/), how do we analyze its time complexity?
+- 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/), study the KMP-based solution.
+- 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/), what's the best solution?
 
 ## Favorite Problems
 - 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)
