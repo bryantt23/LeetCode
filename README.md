@@ -49,7 +49,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (346 / 455)
+## Submissions (347 / 458)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -442,6 +442,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)|[371_v1.cpp](371_v1.cpp)|Easy|7/2/2016|2'03"|1||
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[373_v1.cpp](373_v1.cpp)|Medium|7/9/2016|**26'11"**|1||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[374_v1.cpp](374_v1.cpp)|Easy|7/15/2016|1'35"|1||
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[383_v1.cpp](383_v1.cpp)|Easy|1/21/2017|1'49"|2||
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[485_v1.cpp](485_v1.cpp)|Easy|1/14/2017|2'00"|2||
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[487_v1.cpp](487_v1.cpp)|Medium|1/14/2017|3'43"|1||
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game)|[488_v1.cpp](488_v1.cpp)|Hard|1/14/2017|**35'00"**|2||
