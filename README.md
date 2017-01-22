@@ -51,7 +51,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 - 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 - 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (350 / 458)
+## Submissions (352 / 460)
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
@@ -445,9 +445,12 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 |373|[Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)|[373_v1.cpp](373_v1.cpp)|Medium|7/9/2016|**26'11"**|1||
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[374_v1.cpp](374_v1.cpp)|Easy|7/15/2016|1'35"|1||
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note)|[383_v1.cpp](383_v1.cpp)|Easy|1/21/2017|1'49"|2||
+|483|[Smallest Good Base](https://leetcode.com/contest/leetcode-weekly-contest-16b/problems/smallest-good-base/)|[483_v1.cpp](483_v1.cpp)|Hard|1/21/2017|26'08"|2||
 |484|[Find Permutation](https://leetcode.com/problems/find-permutation)|[484_v1.cpp](484_v1.cpp)|Medium|1/21/2017|**21'57"**|2||
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[485_v1.cpp](485_v1.cpp)|Easy|1/14/2017|2'00"|2||
+|486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[486_v1.cpp](486_v1.cpp)|Medium|1/21/2017|4'06"|2||
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[487_v1.cpp](487_v1.cpp)|Medium|1/14/2017|3'43"|1||
 |488|[Zuma Game](https://leetcode.com/problems/zuma-game)|[488_v1.cpp](488_v1.cpp)|Hard|1/14/2017|**35'00"**|2||
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences)|[491_v1.cpp](491_v1.cpp)|Medium|1/21/2017|6'32"|1||
+|492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle)|[492_v1.cpp](492_v1.cpp)|Easy|1/21/2017|4'56"|1||
 |494|[Target Sum](https://leetcode.com/problems/target-sum)|[494_v1.cpp](494_v1.cpp)|Medium|1/21/2017|5'52"|3||
