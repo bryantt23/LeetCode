@@ -1,57 +1,63 @@
 # LeetCode
+
 This repository keeps a list of the LeetCode problems I've solved. The thresholds I'm currently setting are 10, 20 and 30 minutes for easy, medium and hard problems, respectively. If I cannot solve a problem within the time limit, I'll mark this problem as failed in the "Time" column.
 
 ## Tasks
-- 5. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), study [Manacher's algorithm](http://articles.leetcode.com/longest-palindromic-substring-part-ii).
-- 44. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/), does there exist a subquadratic time algorithm?
-- 212. [Word Search II](https://leetcode.com/problems/word-search-ii/), how do we analyze its time complexity?
-- 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/), study the KMP-based solution.
-- 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/), what's the best solution?
+
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/), study [Manacher's algorithm](http://articles.leetcode.com/longest-palindromic-substring-part-ii).
+* [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/), does there exist a subquadratic time algorithm?
+* [212. Word Search II](https://leetcode.com/problems/word-search-ii/), how do we analyze its time complexity?
+* [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/), study the KMP-based solution.
+* [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/), what's the best solution?
 
 ## :cool: Problems
-- 140. [Word Break II](https://leetcode.com/problems/word-break-ii/)
-- 158. [Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)
-- 160. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- 166. [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
-- 220. [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
-- 224. [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-- 227. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) and StefanPochmann's great [solution](https://leetcode.com/discuss/41641/17-lines-c-easy-20-ms).
-- 255. [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
-- 299. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
-- 324. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
-- 341. [Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
-- 484. [Find Permutation](https://leetcode.com/problems/find-permutation)
+
+* [140. Word Break II](https://leetcode.com/problems/word-break-ii/)
+* [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/)
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+* [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)
+* [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)
+* [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+* [227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) and StefanPochmann's great [solution](https://leetcode.com/discuss/41641/17-lines-c-easy-20-ms).
+* [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
+* [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
+* [324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+* [341. Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+* [484. Find Permutation](https://leetcode.com/problems/find-permutation)
 
 ## Failed Problems
-- 99. [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
-- 130. [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
-- 162. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
-- 165. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
-- 212. [Word Search II](https://leetcode.com/problems/word-search-ii/)
-- 222. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
-- 223. [Rectangle Area](https://leetcode.com/problems/rectangle-area/)
-- 251. [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)
-- 255. [Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
-- 260. [Single Number III](https://leetcode.com/problems/single-number-iii/)
-- 270. [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
-- 324. [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
-- 326. [Power of Three](https://leetcode.com/problems/power-of-three/)
-- 328. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
-- 336. [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
-- 341. [Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
-- 351. [Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
-- 353. [Design Snake Game](https://leetcode.com/problems/design-snake-game/)
-- 373. [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
-- 484. [Find Permutation](https://leetcode.com/problems/find-permutation)
-- 488. [Zuma Game](https://leetcode.com/problems/zuma-game)
+
+* [99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+* [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+* [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+* [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+* [212. Word Search II](https://leetcode.com/problems/word-search-ii/)
+* [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+* [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/)
+* [251. Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)
+* [255. Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
+* [260. Single Number III](https://leetcode.com/problems/single-number-iii/)
+* [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)
+* [324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)
+* [326. Power of Three](https://leetcode.com/problems/power-of-three/)
+* [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)
+* [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)
+* [341. Flatten Nest List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
+* [351. Android Unlock Patterns](https://leetcode.com/problems/android-unlock-patterns/)
+* [353. Design Snake Game](https://leetcode.com/problems/design-snake-game/)
+* [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/)
+* [484. Find Permutation](https://leetcode.com/problems/find-permutation)
+* [488. Zuma Game](https://leetcode.com/problems/zuma-game)
 
 ## Problems to Review
-- 213. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
-- 214. [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
-- 221. [Maximal Square](https://leetcode.com/problems/maximal-square/)
+
+* [213. House Robber II](https://leetcode.com/problems/house-robber-ii/)
+* [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
+* [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 
 ## Submissions (352 / 460)
+
 |#|Problem|Solution|Difficulty|Date|Time|#Sub|Comment|
 |---|---|---|---|---|---|---|---|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[1_v1.cpp](1_v1.cpp)|Easy|5/9/2016|5'38"|2|O(n) Hash|
