@@ -56,7 +56,7 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 * [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)
 * [221. Maximal Square](https://leetcode.com/problems/maximal-square/)
 
-## Submissions (392 / 523)
+## Submissions (402 / 527)
 
 | #    | Problem                                  | Solution                         | Difficulty | Date      | Time       | #Sub | Comment                                  |
 | ---- | ---------------------------------------- | -------------------------------- | ---------- | --------- | ---------- | ---- | ---------------------------------------- |
@@ -451,6 +451,10 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 | 373  | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) | [373_v1.cpp](373_v1.cpp)         | Medium     | 7/9/2016  | **26'11"** | 1    |                                          |
 | 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [374_v1.cpp](374_v1.cpp)         | Easy       | 7/15/2016 | 1'35"      | 1    |                                          |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note) | [383_v1.cpp](383_v1.cpp)         | Easy       | 1/21/2017 | 1'49"      | 2    |                                          |
+| 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/#/description) | [412_v1.cpp](./412_v1.cpp)       | Easy       | 5/8/2017  | 1'13"      | 1    |                                          |
+| 461  | [Hamming Distance](https://leetcode.com/problems/hamming-distance/#/description) | [461_v1.cpp](./461_v1.cpp)       | Easy       | 5/8/2017  | 1'34"      | 1    |                                          |
+| 463  | [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | [463_v1.cpp](./463_v1.cpp)       | Easy       | 5/8/2017  | 3'12"      | 1    |                                          |
+| 476  | [Number Complement](https://leetcode.com/problems/number-complement/#/description) | [476_v1.cpp](../476_v1.cpp)      | Easy       | 5/8/2017  | 1'47"      | 1    |                                          |
 | 483  | [Smallest Good Base](https://leetcode.com/contest/leetcode-weekly-contest-16b/problems/smallest-good-base/) | [483_v1.cpp](483_v1.cpp)         | Hard       | 1/21/2017 | 26'08"     | 2    |                                          |
 | 484  | [Find Permutation](https://leetcode.com/problems/find-permutation) | [484_v1.cpp](484_v1.cpp)         | Medium     | 1/21/2017 | **21'57"** | 2    |                                          |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | [485_v1.cpp](485_v1.cpp)         | Easy       | 1/14/2017 | 2'00"      | 2    |                                          |
@@ -460,7 +464,9 @@ This repository keeps a list of the LeetCode problems I've solved. The threshold
 | 491  | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences) | [491_v1.cpp](491_v1.cpp)         | Medium     | 1/21/2017 | 6'32"      | 1    |                                          |
 | 492  | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle) | [492_v1.cpp](492_v1.cpp)         | Easy       | 1/21/2017 | 4'56"      | 1    |                                          |
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum) | [494_v1.cpp](494_v1.cpp)         | Medium     | 1/21/2017 | 5'52"      | 3    |                                          |
+| 520  | [Detect Capital](https://leetcode.com/problems/detect-capital/#/description) | [520_v1.cpp](./520_v1.cpp)       | Easy       | 5/8/2017  | 2'09"      | 1    |                                          |
 | 560  | [Subarray Sum Equals K](https://leetcode.com/contest/leetcode-weekly-contest-30/problems/subarray-sum-equals-k/) | [560_v1.cpp](./560_v1.cpp)       | Medium     | 4/29/2017 |            | 1    |                                          |
+| 561  | [Array Partition I](https://leetcode.com/problems/array-partition-i/#/description) | [561_v1.cpp](./561_v1.cpp)       | Easy       | 5/8/2017  | 1'05"      | 1    |                                          |
 | 566  | [Reshape the Matrix](https://leetcode.com/contest/leetcode-weekly-contest-30/problems/reshape-the-matrix/) | [566_v1.cpp](./566_v1.cpp)       | Easy       | 4/29/2017 |            | 1    |                                          |
 | 567  | [Permutation in String](https://leetcode.com/contest/leetcode-weekly-contest-30/problems/permutation-in-string/) | [567_v1.cpp](./567_v1.cpp)       | Medium     | 4/29/2017 |            | 3    |                                          |
 | 568  | [Maximum Vacation Days]( Maximum Vacation Days) | [568_v1.cpp](./568_v1.cpp)       | Hard       | 4/29/2017 |            | 2    |                                          |
